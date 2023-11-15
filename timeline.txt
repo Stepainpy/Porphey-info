@@ -8,4 +8,4 @@ Platyphyll 3750
 Leptophyll 3755
 Polyomorpha 3050
 Zoomorpha 3600
-Thiotropha 3100
+Thiokonis 3100
