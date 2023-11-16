@@ -1,7 +1,7 @@
 Porphyrophyta (пурпурные растения, porphyta)
     Microphyta (мелкие растения)
         Eumicrophyta (истинный Microphyta)
-        Phellophyta (пробковое рвстение)
+        Phellophyta (пробковое растение)
     Macrophyta (большие растения)
         Platyphyll (широкий лист)
         Leptophyll (узкий лист)
