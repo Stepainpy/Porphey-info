@@ -9,3 +9,5 @@ Leptophyll 3755
 Polyomorpha 3050
 Zoomorpha 3600
 Thiokonis 3100
+Euthiokonis 3120
+Thioevros 3145
