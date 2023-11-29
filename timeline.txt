@@ -12,8 +12,10 @@ Biopithos 3610
 Archebiopithos 3620
 Ommosoma 3645
 Kinemasoma 3625
-Plakomorpha 3635
-Kykloteremorpha 3650
+Microsoma 3635
+Macrosoma 3650
+Plakomorpha 3665
+Kykloteremorpha 3670
 Thiokonis 3100
 Euthiokonis 3120
 Thioevros 3145
