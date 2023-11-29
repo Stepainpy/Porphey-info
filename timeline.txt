@@ -1,11 +1,11 @@
 3000
 Porphyrophyta 3500
-Microphyta 3600
-Eumicrophyta 3665
-Phellophyta 3670
-Macrophyta 3680
-Platyphyll 3750
-Leptophyll 3755
+Microphyta 3575
+Eumicrophyta 3600
+Phellophyta 3620
+Macrophyta 3590
+Platyphyll 3640
+Leptophyll 3655
 Polyomorpha 3050
 Zoomorpha 3600
 Biopithos 3610
