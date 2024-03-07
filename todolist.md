@@ -9,7 +9,7 @@
 
 - [x] Сделать сводку для Porphyrophyta
 - [x] Сделать сводку для Microphyta
-- [ ] Сделать сводку для Eumicrophyta
+- [x] Сделать сводку для Eumicrophyta
 - [ ] Сделать сводку для Phellophyta
 - [ ] Сделать сводку для Macrophyta
 - [ ] Сделать сводку для Platyphyll
