@@ -15,7 +15,7 @@ Kinemasoma 3625
 Microsoma 3635
 Macrosoma 3650
 Plakomorpha 3665
-Kykloteremorpha 3670
+Kyklomorpha 3670
 Thiokonis 3100
 Euthiokonis 3120
 Thioevros 3145
