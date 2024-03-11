@@ -11,7 +11,7 @@
 - [x] Сделать сводку для Microphyta
 - [x] Сделать сводку для Eumicrophyta
 - [x] Сделать сводку для Phellophyta
-- [ ] Сделать сводку для Macrophyta
+- [x] Сделать сводку для Macrophyta
 - [ ] Сделать сводку для Platyphyll
 - [ ] Сделать сводку для Leptophyll
 - [x] Сделать сводку для Polyomorpha
