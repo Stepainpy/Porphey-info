@@ -24,6 +24,6 @@
 - [ ] Сделать сводку для Macrosoma
 - [ ] Сделать сводку для Plakomorpha
 - [ ] Сделать сводку для Kykloteremorpha
-- [ ] Сделать сводку для Thiokonis
+- [x] Сделать сводку для Thiokonis
 - [ ] Сделать сводку для Euthiokonis
 - [ ] Сделать сводку для Thioevros
