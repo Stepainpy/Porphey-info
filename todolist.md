@@ -28,4 +28,4 @@
 - [x] Сделать сводку для Euthiokonis
 - [x] Сделать сводку для Thioevros
 - [x] Сделать сводку для Archethioevros
-- [ ] Сделать сводку для Bathydendron
+- [x] Сделать сводку для Bathydendron
