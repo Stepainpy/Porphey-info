@@ -27,5 +27,5 @@
 - [x] Сделать сводку для Thiokonis
 - [x] Сделать сводку для Euthiokonis
 - [x] Сделать сводку для Thioevros
-- [ ] Сделать сводку для Archethioevros
+- [x] Сделать сводку для Archethioevros
 - [ ] Сделать сводку для Bathydendron
