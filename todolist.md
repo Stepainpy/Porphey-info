@@ -26,6 +26,6 @@
 - [ ] Сделать сводку для Kykloteremorpha
 - [x] Сделать сводку для Thiokonis
 - [x] Сделать сводку для Euthiokonis
-- [ ] Сделать сводку для Thioevros
+- [x] Сделать сводку для Thioevros
 - [ ] Сделать сводку для Archethioevros
 - [ ] Сделать сводку для Bathydendron
