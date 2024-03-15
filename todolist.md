@@ -25,7 +25,7 @@
 - [ ] Сделать сводку для Plakomorpha
 - [ ] Сделать сводку для Kykloteremorpha
 - [x] Сделать сводку для Thiokonis
-- [ ] Сделать сводку для Euthiokonis
+- [x] Сделать сводку для Euthiokonis
 - [ ] Сделать сводку для Thioevros
 - [ ] Сделать сводку для Archethioevros
 - [ ] Сделать сводку для Bathydendron
