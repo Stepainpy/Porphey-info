@@ -23,6 +23,8 @@
 - [ ] Сделать сводку для Ommosoma
 - [ ] Сделать сводку для Kinemasoma
 - [ ] Сделать сводку для Microsoma
+- [ ] Сделать сводку для Akolymbo
+- [ ] Сделать сводку для Tachypteryx
 - [ ] Сделать сводку для Macrosoma
 - [ ] Сделать сводку для Plakomorpha
 - [ ] Сделать сводку для Kykloteremorpha
