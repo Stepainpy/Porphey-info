@@ -18,6 +18,8 @@
 - [x] Сделать сводку для Zoomorpha
 - [ ] Сделать сводку для Biopithos
 - [ ] Сделать сводку для Archebiopithos
+- [ ] Сделать сводку для Miopotrion
+- [ ] Сделать сводку для Anthomorpha
 - [ ] Сделать сводку для Ommosoma
 - [ ] Сделать сводку для Kinemasoma
 - [ ] Сделать сводку для Microsoma
