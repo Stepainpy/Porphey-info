@@ -15,7 +15,7 @@
 - [x] Сделать сводку для Platyphyll
 - [x] Сделать сводку для Leptophyll
 - [x] Сделать сводку для Polyomorpha
-- [ ] Сделать сводку для Zoomorpha
+- [x] Сделать сводку для Zoomorpha
 - [ ] Сделать сводку для Biopithos
 - [ ] Сделать сводку для Archebiopithos
 - [ ] Сделать сводку для Ommosoma
