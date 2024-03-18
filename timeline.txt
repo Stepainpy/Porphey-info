@@ -6,6 +6,8 @@ Phellophyta 3620
 Macrophyta 3590
 Platyphyll 3640
 Leptophyll 3655
+Hydrothrix 3660
+Chaliphyta 3680
 Polyomorpha 3050
 Zoomorpha 3600
 Biopithos 3610
