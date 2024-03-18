@@ -9,7 +9,7 @@ Leptophyll 3655
 Polyomorpha 3050
 Zoomorpha 3600
 Biopithos 3610
-Archebiopithos 3620
+Litopithos 3625
 Miopotrion 3645
 Anthomorpha 3660
 Ommosoma 3665

@@ -17,7 +17,7 @@
 - [x] Сделать сводку для Polyomorpha
 - [x] Сделать сводку для Zoomorpha
 - [ ] Сделать сводку для Biopithos
-- [ ] Сделать сводку для Archebiopithos
+- [ ] Сделать сводку для Litopithos
 - [ ] Сделать сводку для Miopotrion
 - [ ] Сделать сводку для Anthomorpha
 - [ ] Сделать сводку для Ommosoma
