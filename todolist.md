@@ -14,7 +14,7 @@
 - [x] Сделать сводку для Macrophyta
 - [x] Сделать сводку для Platyphyll
 - [x] Сделать сводку для Leptophyll
-- [ ] Сделать сводку для Hydrothrix
+- [x] Сделать сводку для Hydrothrix
 - [ ] Сделать сводку для Chaliphyta
 - [x] Сделать сводку для Polyomorpha
 - [x] Сделать сводку для Zoomorpha
