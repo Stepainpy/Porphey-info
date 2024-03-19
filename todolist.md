@@ -7,31 +7,31 @@
 
 ## Данные о кладах
 
-- [x] Сделать сводку для Porphyrophyta
-- [x] Сделать сводку для Microphyta
-- [x] Сделать сводку для Eumicrophyta
-- [x] Сделать сводку для Phellophyta
-- [x] Сделать сводку для Macrophyta
-- [x] Сделать сводку для Platyphyll
-- [x] Сделать сводку для Leptophyll
-- [x] Сделать сводку для Hydrothrix
-- [x] Сделать сводку для Chaliphyta
-- [x] Сделать сводку для Polyomorpha
-- [x] Сделать сводку для Zoomorpha
-- [ ] Сделать сводку для Biopithos
-- [ ] Сделать сводку для Litopithos
-- [ ] Сделать сводку для Miopotrion
-- [ ] Сделать сводку для Anthomorpha
-- [ ] Сделать сводку для Ommosoma
-- [ ] Сделать сводку для Kinemasoma
-- [ ] Сделать сводку для Microsoma
-- [ ] Сделать сводку для Akolymbo
-- [ ] Сделать сводку для Tachypteryx
-- [ ] Сделать сводку для Macrosoma
-- [ ] Сделать сводку для Plakomorpha
-- [ ] Сделать сводку для Kykloteremorpha
-- [x] Сделать сводку для Thiokonis
-- [x] Сделать сводку для Euthiokonis
-- [x] Сделать сводку для Thioevros
-- [x] Сделать сводку для Archethioevros
-- [x] Сделать сводку для Bathydendron
+- [x] Сделать сводку для [Porphyrophyta](pages/porphyrophyta.md)
+- [x] Сделать сводку для [Microphyta](pages/microphyta.md)
+- [x] Сделать сводку для [Eumicrophyta](pages/eumicrophyta.md)
+- [x] Сделать сводку для [Phellophyta](pages/phellophyta.md)
+- [x] Сделать сводку для [Macrophyta](pages/macrophyta.md)
+- [x] Сделать сводку для [Platyphyll](pages/platyphyll.md)
+- [x] Сделать сводку для [Leptophyll](pages/leptophyll.md)
+- [x] Сделать сводку для [Hydrothrix](pages/hydrothrix.md)
+- [x] Сделать сводку для [Chaliphyta](pages/chaliphyta.md)
+- [x] Сделать сводку для [Polyomorpha](pages/polyomorpha.md)
+- [x] Сделать сводку для [Zoomorpha](pages/zoomorpha.md)
+- [ ] Сделать сводку для [Biopithos](pages/biopithos.md)
+- [ ] Сделать сводку для [Litopithos](pages/litopithos.md)
+- [ ] Сделать сводку для [Miopotrion](pages/miopotrion.md)
+- [ ] Сделать сводку для [Anthomorpha](pages/anthomorpha.md)
+- [ ] Сделать сводку для [Ommosoma](pages/ommosoma.md)
+- [ ] Сделать сводку для [Kinemasoma](pages/kinemasoma.md)
+- [ ] Сделать сводку для [Microsoma](pages/microsoma.md)
+- [ ] Сделать сводку для [Akolymbo](pages/akolymbo.md)
+- [ ] Сделать сводку для [Tachypteryx](pages/tachypteryx.md)
+- [ ] Сделать сводку для [Macrosoma](pages/macrosoma.md)
+- [ ] Сделать сводку для [Plakomorpha](pages/plakomorpha.md)
+- [ ] Сделать сводку для [Kykloteremorpha](pages/kykloteremorpha.md)
+- [x] Сделать сводку для [Thiokonis](pages/thiokonis.md)
+- [x] Сделать сводку для [Euthiokonis](pages/euthiokonis.md)
+- [x] Сделать сводку для [Thioevros](pages/thioevros.md)
+- [x] Сделать сводку для [Archethioevros](pages/archethioevros.md)
+- [x] Сделать сводку для [Bathydendron](pages/bathydendron.md)
