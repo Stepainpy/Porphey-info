@@ -18,7 +18,7 @@
 - [x] Сделать сводку для [Chaliphyta](pages/chaliphyta.md)
 - [x] Сделать сводку для [Polyomorpha](pages/polyomorpha.md)
 - [x] Сделать сводку для [Zoomorpha](pages/zoomorpha.md)
-- [ ] Сделать сводку для [Biopithos](pages/biopithos.md)
+- [x] Сделать сводку для [Biopithos](pages/biopithos.md)
 - [ ] Сделать сводку для [Litopithos](pages/litopithos.md)
 - [ ] Сделать сводку для [Miopotrion](pages/miopotrion.md)
 - [ ] Сделать сводку для [Anthomorpha](pages/anthomorpha.md)
