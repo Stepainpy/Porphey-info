@@ -25,7 +25,7 @@
 - [ ] Сделать сводку для [Ommosoma](pages/ommosoma.md)
 - [x] Сделать сводку для [Kinemasoma](pages/kinemasoma.md)
 - [x] Сделать сводку для [Microsoma](pages/microsoma.md)
-- [ ] Сделать сводку для [Akolymbo](pages/akolymbo.md)
+- [x] Сделать сводку для [Akolymbo](pages/akolymbo.md)
 - [ ] Сделать сводку для [Tachypteryx](pages/tachypteryx.md)
 - [ ] Сделать сводку для [Macrosoma](pages/macrosoma.md)
 - [ ] Сделать сводку для [Plakomorpha](pages/plakomorpha.md)
