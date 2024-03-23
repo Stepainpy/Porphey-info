@@ -23,7 +23,7 @@
 - [ ] Сделать сводку для [Miopotrion](pages/miopotrion.md)
 - [ ] Сделать сводку для [Anthomorpha](pages/anthomorpha.md)
 - [ ] Сделать сводку для [Ommosoma](pages/ommosoma.md)
-- [ ] Сделать сводку для [Kinemasoma](pages/kinemasoma.md)
+- [x] Сделать сводку для [Kinemasoma](pages/kinemasoma.md)
 - [ ] Сделать сводку для [Microsoma](pages/microsoma.md)
 - [ ] Сделать сводку для [Akolymbo](pages/akolymbo.md)
 - [ ] Сделать сводку для [Tachypteryx](pages/tachypteryx.md)
