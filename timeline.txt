@@ -17,11 +17,11 @@ Anthomorpha 3660
 Ommosoma 3665
 Kinemasoma 3625
 Microsoma 3635
-Akolymbo 3645
+Acolymbo 3645
 Tachypteryx 3655
 Macrosoma 3650
 Plakomorpha 3665
-Kyklomorpha 3670
+Cyclomorpha 3670
 Thiokonis 3100
 Euthiokonis 3120
 Thioevros 3145
