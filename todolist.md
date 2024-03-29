@@ -20,7 +20,7 @@
 - [x] Сделать сводку для [Zoomorpha](pages/zoomorpha.md)
 - [x] Сделать сводку для [Biopithos](pages/biopithos.md)
 - [x] Сделать сводку для [Litopithos](pages/litopithos.md)
-- [ ] Сделать сводку для [Miopotrion](pages/miopotrion.md)
+- [x] Сделать сводку для [Miopotrion](pages/miopotrion.md)
 - [ ] Сделать сводку для [Anthomorpha](pages/anthomorpha.md)
 - [ ] Сделать сводку для [Ommosoma](pages/ommosoma.md)
 - [x] Сделать сводку для [Kinemasoma](pages/kinemasoma.md)
