@@ -14,7 +14,7 @@ Biopithos 3610
 Litopithos 3625
 Miopotrion 3645
 Anthomorpha 3660
-Ommosoma 3665
+Ommasoma 3665
 Kinemasoma 3625
 Microsoma 3635
 Acolymbo 3645

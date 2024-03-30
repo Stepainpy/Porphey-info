@@ -22,7 +22,7 @@
 - [x] Сделать сводку для [Litopithos](pages/litopithos.md)
 - [x] Сделать сводку для [Miopotrion](pages/miopotrion.md)
 - [x] Сделать сводку для [Anthomorpha](pages/anthomorpha.md)
-- [ ] Сделать сводку для [Ommosoma](pages/ommosoma.md)
+- [x] Сделать сводку для [Ommasoma](pages/ommasoma.md)
 - [x] Сделать сводку для [Kinemasoma](pages/kinemasoma.md)
 - [x] Сделать сводку для [Microsoma](pages/microsoma.md)
 - [x] Сделать сводку для [Acolymbo](pages/acolymbo.md)
