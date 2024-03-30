@@ -29,7 +29,7 @@
 - [x] Сделать сводку для [Tachypteryx](pages/tachypteryx.md)
 - [x] Сделать сводку для [Macrosoma](pages/macrosoma.md)
 - [x] Сделать сводку для [Plakomorpha](pages/plakomorpha.md)
-- [ ] Сделать сводку для [Cycloteremorpha](pages/cycloteremorpha.md)
+- [x] Сделать сводку для [Cyclomorpha](pages/cyclomorpha.md)
 - [x] Сделать сводку для [Thiokonis](pages/thiokonis.md)
 - [x] Сделать сводку для [Euthiokonis](pages/euthiokonis.md)
 - [x] Сделать сводку для [Thioevros](pages/thioevros.md)
