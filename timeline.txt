@@ -5,6 +5,8 @@ Eumicrophyta 3600
 Phellophyta 3620
 Macrophyta 3590
 Platyphyll 3640
+Archeplatyphyll 3647
+Purgophyll 3656
 Leptophyll 3655
 Hydrothrix 3660
 Chaliphyta 3680
